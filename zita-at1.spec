@@ -1,12 +1,12 @@
 Summary:	AT1 - autotuner for Jack Audio Connection Kit
 Summary(pl.UTF-8):	AT1 - autostoiciel dla JACK-a
 Name:		zita-at1
-Version:	0.6.2
+Version:	0.8.1
 Release:	1
 License:	GPL v3+
 Group:		Applications/Sound
 Source0:	https://kokkinizita.linuxaudio.org/linuxaudio/downloads/%{name}-%{version}.tar.bz2
-# Source0-md5:	a27947a4c1bd48278aefc7f5b08a564f
+# Source0-md5:	edfa9b230e2c3e41564340bcf62bd474
 URL:		https://kokkinizita.linuxaudio.org/linuxaudio/zita-at1-doc/quickguide.html
 BuildRequires:	cairo-devel
 BuildRequires:	clthreads-devel >= 2.4.0
